@@ -1,6 +1,6 @@
 # OpenMesh
 
-OpenMesh is a dataset of  microwave link and personal weather station (PWS)
+OpenMesh is a dataset of microwave link and personal weather station (PWS)
 measurements over New York City, covering January 2024. It also includes ASOS reference station
 data for validation. The raw data is sourced from two Zenodo records (jacoby_2025_OpenMesh).
 
